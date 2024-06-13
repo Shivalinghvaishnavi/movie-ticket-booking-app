@@ -7,7 +7,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 Here are some screenshots of the app:
 <p align="center">
   <img src="./src/assets/images/homescreen-image.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
-  <img src="./src/assets/images/profilescreen-image.png" alt="Profile Screen" width="200" style="margin-right: 20px">
+  <img src="./src/assets/images/profile-screen-image.png" alt="Profile Screen" width="200" style="margin-right: 20px">
   <img src="./src/assets/images/searchscreen-image.png" alt="Search Screen" width="200" style="margin-right: 20px"/>
   <img src="./src/assets/images/moviedetailsscreen-image.png" alt="Profile Screen" width="200" style="margin-right: 20px"/>
   <img src="./src/assets/images/seatbookingscreen-image.png" alt="Seat Booking Screen" width="200"/>
