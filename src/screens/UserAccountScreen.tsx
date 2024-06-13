@@ -21,7 +21,7 @@ const UserAccountScreen = ({navigation}: any) => {
           source={require('../assets/images/profile-image.png')}
           style={styles.avatarImage}
         />
-        <Text style={styles.avatarText}>John Doe</Text>
+        <Text style={styles.avatarText}>Vaishnavi Shivalingh</Text>
       </View>
 
       <View style={styles.profileContainer}>
