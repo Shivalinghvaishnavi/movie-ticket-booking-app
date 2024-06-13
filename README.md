@@ -5,12 +5,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Screenshots
 
 Here are some screenshots of the app:
-
 <p align="center">
-  <img src="./images/homescreen-image.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
-  <img src="./images/profile-image.png" alt="Profile Screen" width="200" style="margin-right: 20px"/>
-  <img src="./images/searchscreen-image.png" alt="Search Screen" width="200" style="margin-right: 20px"/>
-  <img src="./images/seat-booking-screen.png" alt="Seat Booking Screen" width="200"/>
+  <img src="./src/assets/images/homescreen-image.png" alt="Home Screen" width="200" style="margin-right: 20px"/>
+  <img src="./src/assets/images/profilescreen-image.png" alt="Profile Screen" width="200" style="margin-right: 20px">
+  <img src="./src/assets/images/searchscreen-image.png" alt="Search Screen" width="200" style="margin-right: 20px"/>
+  <img src="./src/assets/images/moviedetailsscreen-image.png" alt="Profile Screen" width="200" style="margin-right: 20px"/>
+  <img src="./src/assets/images/seatbookingscreen-image.png" alt="Seat Booking Screen" width="200"/>
 </p>
 
 # Getting Started
